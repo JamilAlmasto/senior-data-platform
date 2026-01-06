@@ -22,6 +22,12 @@ def main():
 	print("\n=== UNIQUE COUNTS ===")
 	print(df.nunique())
 
+	print("\n=== Data types ===")
+	print(df.dtypes)
+    
+
+
+
 
 if __name__ == "__main__":
     main()
