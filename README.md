@@ -112,7 +112,7 @@ def test_pipeline_runs():
 
 ---
 
-##  Notes
+##  Notess
 
 This project is intended for learning and portfolio purposes, showcasing practical data engineering skills and architecture patterns.
 
