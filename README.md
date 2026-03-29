@@ -69,8 +69,6 @@ DB_USER=admin
 DB_PASSWORD=admin
 ```
 
-⚠️ Do not commit real credentials. Use local environment variables or a `.env` file.
-
 ---
 
 ## How to Run
